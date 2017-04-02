@@ -1,0 +1,28 @@
+{
+  "name": "native-structures",
+  "version": "0.1.0",
+  "description": "Native Javascript Done Right",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --recursive src/"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.13.3",
+    "mocha": "^2.2.5"
+  },
+  "engines": {
+    "node": "6.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lingqingmeng/native-structures"
+  },
+  "keywords": [
+  ],
+  "author": "Ling Qing Meng",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
