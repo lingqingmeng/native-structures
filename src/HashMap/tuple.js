@@ -65,10 +65,11 @@ class Tuple {
   	return iterable;
 	 }
 
-	
 }
 
 
 
 
-module.exports = Tuple
+module.exports = {
+  tuple: Tuple
+}
