@@ -31,4 +31,4 @@ npm run test
 
 
 ## Questions and comments
-You can visit my [personal site](https://lingqingmeng.com) to get a direct line or [send me a tweet](https://twitter.com/lingqingmeng).
+You can visit my [personal site](https://lingqingmeng.com) to get a direct line or [send me a tweet](https://twitter.com/lingqingm).
